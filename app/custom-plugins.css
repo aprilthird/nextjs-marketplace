@@ -1,0 +1,8 @@
+.swiper-button-disabled {
+    @apply opacity-0 transition-opacity duration-200;
+  }
+
+/* Swiper hide Disabled button */
+.swiper-button-disabled {
+    display: none !important;
+  }

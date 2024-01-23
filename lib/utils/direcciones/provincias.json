@@ -1,0 +1,1796 @@
+{
+  "2534": [
+    {
+      "id_ubigeo": "2557",
+      "label": "Bagua",
+      "value": "Bagua",
+      "codigo_ubigeo": "02",
+      "numero_hijos_ubigeo": "5",
+      "nivel_ubigeo": "2",
+      "id_padre_ubigeo": "2534"
+    },
+    {
+      "id_ubigeo": "2563",
+      "label": "Bongara",
+      "value": "Bongara",
+      "codigo_ubigeo": "03",
+      "numero_hijos_ubigeo": "12",
+      "nivel_ubigeo": "2",
+      "id_padre_ubigeo": "2534"
+    },
+    {
+      "id_ubigeo": "2535",
+      "label": "Chachapoyas",
+      "value": "Chachapoyas",
+      "codigo_ubigeo": "01",
+      "numero_hijos_ubigeo": "21",
+      "nivel_ubigeo": "2",
+      "id_padre_ubigeo": "2534"
+    },
+    {
+      "id_ubigeo": "2576",
+      "label": "Condorcanqui",
+      "value": "Condorcanqui",
+      "codigo_ubigeo": "04",
+      "numero_hijos_ubigeo": "3",
+      "nivel_ubigeo": "2",
+      "id_padre_ubigeo": "2534"
+    },
+    {
+      "id_ubigeo": "2580",
+      "label": "Luya",
+      "value": "Luya",
+      "codigo_ubigeo": "05",
+      "numero_hijos_ubigeo": "23",
+      "nivel_ubigeo": "2",
+      "id_padre_ubigeo": "2534"
+    },
+    {
+      "id_ubigeo": "2604",
+      "label": "Rodriguez de Mendoza",
+      "value": "Rodriguez de Mendoza",
+      "codigo_ubigeo": "06",
+      "numero_hijos_ubigeo": "12",
+      "nivel_ubigeo": "2",
+      "id_padre_ubigeo": "2534"
+    },
+    {
+      "id_ubigeo": "2617",
+      "label": "Utcubamba",
+      "value": "Utcubamba",
+      "codigo_ubigeo": "07",
+      "numero_hijos_ubigeo": "7",
+      "nivel_ubigeo": "2",
+      "id_padre_ubigeo": "2534"
+    }
+  ],
+  "2625": [
+    {
+      "id_ubigeo": "2639",
+      "label": "Aija",
+      "value": "Aija",
+      "codigo_ubigeo": "02",
+      "numero_hijos_ubigeo": "5",
+      "nivel_ubigeo": "2",
+      "id_padre_ubigeo": "2625"
+    },
+    {
+      "id_ubigeo": "2645",
+      "label": "Antonio Raymondi",
+      "value": "Antonio Raymondi",
+      "codigo_ubigeo": "03",
+      "numero_hijos_ubigeo": "6",
+      "nivel_ubigeo": "2",
+      "id_padre_ubigeo": "2625"
+    },
+    {
+      "id_ubigeo": "2652",
+      "label": "Asuncion",
+      "value": "Asuncion",
+      "codigo_ubigeo": "04",
+      "numero_hijos_ubigeo": "2",
+      "nivel_ubigeo": "2",
+      "id_padre_ubigeo": "2625"
+    },
+    {
+      "id_ubigeo": "2655",
+      "label": "Bolognesi",
+      "value": "Bolognesi",
+      "codigo_ubigeo": "05",
+      "numero_hijos_ubigeo": "15",
+      "nivel_ubigeo": "2",
+      "id_padre_ubigeo": "2625"
+    },
+    {
+      "id_ubigeo": "2671",
+      "label": "Carhuaz",
+      "value": "Carhuaz",
+      "codigo_ubigeo": "06",
+      "numero_hijos_ubigeo": "11",
+      "nivel_ubigeo": "2",
+      "id_padre_ubigeo": "2625"
+    },
+    {
+      "id_ubigeo": "2683",
+      "label": "Carlos Fermin Fitzcarrald",
+      "value": "Carlos Fermin Fitzcarrald",
+      "codigo_ubigeo": "07",
+      "numero_hijos_ubigeo": "3",
+      "nivel_ubigeo": "2",
+      "id_padre_ubigeo": "2625"
+    },
+    {
+      "id_ubigeo": "2687",
+      "label": "Casma",
+      "value": "Casma",
+      "codigo_ubigeo": "08",
+      "numero_hijos_ubigeo": "4",
+      "nivel_ubigeo": "2",
+      "id_padre_ubigeo": "2625"
+    },
+    {
+      "id_ubigeo": "2692",
+      "label": "Corongo",
+      "value": "Corongo",
+      "codigo_ubigeo": "09",
+      "numero_hijos_ubigeo": "7",
+      "nivel_ubigeo": "2",
+      "id_padre_ubigeo": "2625"
+    },
+    {
+      "id_ubigeo": "2626",
+      "label": "Huaraz",
+      "value": "Huaraz",
+      "codigo_ubigeo": "01",
+      "numero_hijos_ubigeo": "12",
+      "nivel_ubigeo": "2",
+      "id_padre_ubigeo": "2625"
+    },
+    {
+      "id_ubigeo": "2700",
+      "label": "Huari",
+      "value": "Huari",
+      "codigo_ubigeo": "10",
+      "numero_hijos_ubigeo": "16",
+      "nivel_ubigeo": "2",
+      "id_padre_ubigeo": "2625"
+    },
+    {
+      "id_ubigeo": "2717",
+      "label": "Huarmey",
+      "value": "Huarmey",
+      "codigo_ubigeo": "11",
+      "numero_hijos_ubigeo": "5",
+      "nivel_ubigeo": "2",
+      "id_padre_ubigeo": "2625"
+    },
+    {
+      "id_ubigeo": "2723",
+      "label": "Huaylas",
+      "value": "Huaylas",
+      "codigo_ubigeo": "12",
+      "numero_hijos_ubigeo": "10",
+      "nivel_ubigeo": "2",
+      "id_padre_ubigeo": "2625"
+    },
+    {
+      "id_ubigeo": "2734",
+      "label": "Mariscal Luzuriaga",
+      "value": "Mariscal Luzuriaga",
+      "codigo_ubigeo": "13",
+      "numero_hijos_ubigeo": "8",
+      "nivel_ubigeo": "2",
+      "id_padre_ubigeo": "2625"
+    },
+    {
+      "id_ubigeo": "2743",
+      "label": "Ocros",
+      "value": "Ocros",
+      "codigo_ubigeo": "14",
+      "numero_hijos_ubigeo": "10",
+      "nivel_ubigeo": "2",
+      "id_padre_ubigeo": "2625"
+    },
+    {
+      "id_ubigeo": "2754",
+      "label": "Pallasca",
+      "value": "Pallasca",
+      "codigo_ubigeo": "15",
+      "numero_hijos_ubigeo": "11",
+      "nivel_ubigeo": "2",
+      "id_padre_ubigeo": "2625"
+    },
+    {
+      "id_ubigeo": "2766",
+      "label": "Pomabamba",
+      "value": "Pomabamba",
+      "codigo_ubigeo": "16",
+      "numero_hijos_ubigeo": "4",
+      "nivel_ubigeo": "2",
+      "id_padre_ubigeo": "2625"
+    },
+    {
+      "id_ubigeo": "2771",
+      "label": "Recuay",
+      "value": "Recuay",
+      "codigo_ubigeo": "17",
+      "numero_hijos_ubigeo": "10",
+      "nivel_ubigeo": "2",
+      "id_padre_ubigeo": "2625"
+    },
+    {
+      "id_ubigeo": "2782",
+      "label": "Santa",
+      "value": "Santa",
+      "codigo_ubigeo": "18",
+      "numero_hijos_ubigeo": "9",
+      "nivel_ubigeo": "2",
+      "id_padre_ubigeo": "2625"
+    },
+    {
+      "id_ubigeo": "2792",
+      "label": "Sihuas",
+      "value": "Sihuas",
+      "codigo_ubigeo": "19",
+      "numero_hijos_ubigeo": "10",
+      "nivel_ubigeo": "2",
+      "id_padre_ubigeo": "2625"
+    },
+    {
+      "id_ubigeo": "2803",
+      "label": "Yungay",
+      "value": "Yungay",
+      "codigo_ubigeo": "20",
+      "numero_hijos_ubigeo": "8",
+      "nivel_ubigeo": "2",
+      "id_padre_ubigeo": "2625"
+    }
+  ],
+  "2812": [
+    {
+      "id_ubigeo": "2813",
+      "label": "Abancay",
+      "value": "Abancay",
+      "codigo_ubigeo": "01",
+      "numero_hijos_ubigeo": "9",
+      "nivel_ubigeo": "2",
+      "id_padre_ubigeo": "2812"
+    },
+    {
+      "id_ubigeo": "2823",
+      "label": "Andahuaylas",
+      "value": "Andahuaylas",
+      "codigo_ubigeo": "02",
+      "numero_hijos_ubigeo": "19",
+      "nivel_ubigeo": "2",
+      "id_padre_ubigeo": "2812"
+    },
+    {
+      "id_ubigeo": "2843",
+      "label": "Antabamba",
+      "value": "Antabamba",
+      "codigo_ubigeo": "03",
+      "numero_hijos_ubigeo": "7",
+      "nivel_ubigeo": "2",
+      "id_padre_ubigeo": "2812"
+    },
+    {
+      "id_ubigeo": "2851",
+      "label": "Aymaraes",
+      "value": "Aymaraes",
+      "codigo_ubigeo": "04",
+      "numero_hijos_ubigeo": "17",
+      "nivel_ubigeo": "2",
+      "id_padre_ubigeo": "2812"
+    },
+    {
+      "id_ubigeo": "2876",
+      "label": "Chincheros",
+      "value": "Chincheros",
+      "codigo_ubigeo": "06",
+      "numero_hijos_ubigeo": "8",
+      "nivel_ubigeo": "2",
+      "id_padre_ubigeo": "2812"
+    },
+    {
+      "id_ubigeo": "2869",
+      "label": "Cotabambas",
+      "value": "Cotabambas",
+      "codigo_ubigeo": "05",
+      "numero_hijos_ubigeo": "6",
+      "nivel_ubigeo": "2",
+      "id_padre_ubigeo": "2812"
+    },
+    {
+      "id_ubigeo": "2885",
+      "label": "Grau",
+      "value": "Grau",
+      "codigo_ubigeo": "07",
+      "numero_hijos_ubigeo": "14",
+      "nivel_ubigeo": "2",
+      "id_padre_ubigeo": "2812"
+    }
+  ],
+  "2900": [
+    {
+      "id_ubigeo": "2901",
+      "label": "Arequipa",
+      "value": "Arequipa",
+      "codigo_ubigeo": "01",
+      "numero_hijos_ubigeo": "29",
+      "nivel_ubigeo": "2",
+      "id_padre_ubigeo": "2900"
+    },
+    {
+      "id_ubigeo": "2931",
+      "label": "Camana",
+      "value": "Camana",
+      "codigo_ubigeo": "02",
+      "numero_hijos_ubigeo": "8",
+      "nivel_ubigeo": "2",
+      "id_padre_ubigeo": "2900"
+    },
+    {
+      "id_ubigeo": "2940",
+      "label": "Caraveli",
+      "value": "Caraveli",
+      "codigo_ubigeo": "03",
+      "numero_hijos_ubigeo": "13",
+      "nivel_ubigeo": "2",
+      "id_padre_ubigeo": "2900"
+    },
+    {
+      "id_ubigeo": "2954",
+      "label": "Castilla",
+      "value": "Castilla",
+      "codigo_ubigeo": "04",
+      "numero_hijos_ubigeo": "16",
+      "nivel_ubigeo": "2",
+      "id_padre_ubigeo": "2900"
+    },
+    {
+      "id_ubigeo": "2971",
+      "label": "Caylloma",
+      "value": "Caylloma",
+      "codigo_ubigeo": "05",
+      "numero_hijos_ubigeo": "20",
+      "nivel_ubigeo": "2",
+      "id_padre_ubigeo": "2900"
+    },
+    {
+      "id_ubigeo": "2992",
+      "label": "Condesuyos",
+      "value": "Condesuyos",
+      "codigo_ubigeo": "06",
+      "numero_hijos_ubigeo": "8",
+      "nivel_ubigeo": "2",
+      "id_padre_ubigeo": "2900"
+    },
+    {
+      "id_ubigeo": "3001",
+      "label": "Islay",
+      "value": "Islay",
+      "codigo_ubigeo": "07",
+      "numero_hijos_ubigeo": "6",
+      "nivel_ubigeo": "2",
+      "id_padre_ubigeo": "2900"
+    },
+    {
+      "id_ubigeo": "3008",
+      "label": "La Union",
+      "value": "La Union",
+      "codigo_ubigeo": "08",
+      "numero_hijos_ubigeo": "11",
+      "nivel_ubigeo": "2",
+      "id_padre_ubigeo": "2900"
+    }
+  ],
+  "3020": [
+    {
+      "id_ubigeo": "3037",
+      "label": "Cangallo",
+      "value": "Cangallo",
+      "codigo_ubigeo": "02",
+      "numero_hijos_ubigeo": "6",
+      "nivel_ubigeo": "2",
+      "id_padre_ubigeo": "3020"
+    },
+    {
+      "id_ubigeo": "3021",
+      "label": "Huamanga",
+      "value": "Huamanga",
+      "codigo_ubigeo": "01",
+      "numero_hijos_ubigeo": "15",
+      "nivel_ubigeo": "2",
+      "id_padre_ubigeo": "3020"
+    },
+    {
+      "id_ubigeo": "3044",
+      "label": "Huanca Sancos",
+      "value": "Huanca Sancos",
+      "codigo_ubigeo": "03",
+      "numero_hijos_ubigeo": "4",
+      "nivel_ubigeo": "2",
+      "id_padre_ubigeo": "3020"
+    },
+    {
+      "id_ubigeo": "3049",
+      "label": "Huanta",
+      "value": "Huanta",
+      "codigo_ubigeo": "04",
+      "numero_hijos_ubigeo": "8",
+      "nivel_ubigeo": "2",
+      "id_padre_ubigeo": "3020"
+    },
+    {
+      "id_ubigeo": "3058",
+      "label": "La Mar",
+      "value": "La Mar",
+      "codigo_ubigeo": "05",
+      "numero_hijos_ubigeo": "8",
+      "nivel_ubigeo": "2",
+      "id_padre_ubigeo": "3020"
+    },
+    {
+      "id_ubigeo": "3067",
+      "label": "Lucanas",
+      "value": "Lucanas",
+      "codigo_ubigeo": "06",
+      "numero_hijos_ubigeo": "21",
+      "nivel_ubigeo": "2",
+      "id_padre_ubigeo": "3020"
+    },
+    {
+      "id_ubigeo": "3089",
+      "label": "Parinacochas",
+      "value": "Parinacochas",
+      "codigo_ubigeo": "07",
+      "numero_hijos_ubigeo": "8",
+      "nivel_ubigeo": "2",
+      "id_padre_ubigeo": "3020"
+    },
+    {
+      "id_ubigeo": "3098",
+      "label": "Paucar del Sara Sara",
+      "value": "Paucar del Sara Sara",
+      "codigo_ubigeo": "08",
+      "numero_hijos_ubigeo": "10",
+      "nivel_ubigeo": "2",
+      "id_padre_ubigeo": "3020"
+    },
+    {
+      "id_ubigeo": "3109",
+      "label": "Sucre",
+      "value": "Sucre",
+      "codigo_ubigeo": "09",
+      "numero_hijos_ubigeo": "11",
+      "nivel_ubigeo": "2",
+      "id_padre_ubigeo": "3020"
+    },
+    {
+      "id_ubigeo": "3121",
+      "label": "Victor Fajardo",
+      "value": "Victor Fajardo",
+      "codigo_ubigeo": "10",
+      "numero_hijos_ubigeo": "12",
+      "nivel_ubigeo": "2",
+      "id_padre_ubigeo": "3020"
+    },
+    {
+      "id_ubigeo": "3134",
+      "label": "Vilcas Huaman",
+      "value": "Vilcas Huaman",
+      "codigo_ubigeo": "11",
+      "numero_hijos_ubigeo": "8",
+      "nivel_ubigeo": "2",
+      "id_padre_ubigeo": "3020"
+    }
+  ],
+  "3143": [
+    {
+      "id_ubigeo": "3157",
+      "label": "Cajabamba",
+      "value": "Cajabamba",
+      "codigo_ubigeo": "02",
+      "numero_hijos_ubigeo": "4",
+      "nivel_ubigeo": "2",
+      "id_padre_ubigeo": "3143"
+    },
+    {
+      "id_ubigeo": "3144",
+      "label": "Cajamarca",
+      "value": "Cajamarca",
+      "codigo_ubigeo": "01",
+      "numero_hijos_ubigeo": "12",
+      "nivel_ubigeo": "2",
+      "id_padre_ubigeo": "3143"
+    },
+    {
+      "id_ubigeo": "3162",
+      "label": "Celendin",
+      "value": "Celendin",
+      "codigo_ubigeo": "03",
+      "numero_hijos_ubigeo": "12",
+      "nivel_ubigeo": "2",
+      "id_padre_ubigeo": "3143"
+    },
+    {
+      "id_ubigeo": "3175",
+      "label": "Chota",
+      "value": "Chota",
+      "codigo_ubigeo": "04",
+      "numero_hijos_ubigeo": "19",
+      "nivel_ubigeo": "2",
+      "id_padre_ubigeo": "3143"
+    },
+    {
+      "id_ubigeo": "3195",
+      "label": "Contumaza",
+      "value": "Contumaza",
+      "codigo_ubigeo": "05",
+      "numero_hijos_ubigeo": "8",
+      "nivel_ubigeo": "2",
+      "id_padre_ubigeo": "3143"
+    },
+    {
+      "id_ubigeo": "3204",
+      "label": "Cutervo",
+      "value": "Cutervo",
+      "codigo_ubigeo": "06",
+      "numero_hijos_ubigeo": "15",
+      "nivel_ubigeo": "2",
+      "id_padre_ubigeo": "3143"
+    },
+    {
+      "id_ubigeo": "3220",
+      "label": "Hualgayoc",
+      "value": "Hualgayoc",
+      "codigo_ubigeo": "07",
+      "numero_hijos_ubigeo": "3",
+      "nivel_ubigeo": "2",
+      "id_padre_ubigeo": "3143"
+    },
+    {
+      "id_ubigeo": "3224",
+      "label": "Jaen",
+      "value": "Jaen",
+      "codigo_ubigeo": "08",
+      "numero_hijos_ubigeo": "12",
+      "nivel_ubigeo": "2",
+      "id_padre_ubigeo": "3143"
+    },
+    {
+      "id_ubigeo": "3237",
+      "label": "San Ignacio",
+      "value": "San Ignacio",
+      "codigo_ubigeo": "09",
+      "numero_hijos_ubigeo": "7",
+      "nivel_ubigeo": "2",
+      "id_padre_ubigeo": "3143"
+    },
+    {
+      "id_ubigeo": "3245",
+      "label": "San Marcos",
+      "value": "San Marcos",
+      "codigo_ubigeo": "10",
+      "numero_hijos_ubigeo": "7",
+      "nivel_ubigeo": "2",
+      "id_padre_ubigeo": "3143"
+    },
+    {
+      "id_ubigeo": "3253",
+      "label": "San Miguel",
+      "value": "San Miguel",
+      "codigo_ubigeo": "11",
+      "numero_hijos_ubigeo": "13",
+      "nivel_ubigeo": "2",
+      "id_padre_ubigeo": "3143"
+    },
+    {
+      "id_ubigeo": "3267",
+      "label": "San Pablo",
+      "value": "San Pablo",
+      "codigo_ubigeo": "12",
+      "numero_hijos_ubigeo": "4",
+      "nivel_ubigeo": "2",
+      "id_padre_ubigeo": "3143"
+    },
+    {
+      "id_ubigeo": "3272",
+      "label": "Santa Cruz",
+      "value": "Santa Cruz",
+      "codigo_ubigeo": "13",
+      "numero_hijos_ubigeo": "11",
+      "nivel_ubigeo": "2",
+      "id_padre_ubigeo": "3143"
+    }
+  ],
+  "3292": [
+    {
+      "id_ubigeo": "3302",
+      "label": "Acomayo",
+      "value": "Acomayo",
+      "codigo_ubigeo": "02",
+      "numero_hijos_ubigeo": "7",
+      "nivel_ubigeo": "2",
+      "id_padre_ubigeo": "3292"
+    },
+    {
+      "id_ubigeo": "3310",
+      "label": "Anta",
+      "value": "Anta",
+      "codigo_ubigeo": "03",
+      "numero_hijos_ubigeo": "9",
+      "nivel_ubigeo": "2",
+      "id_padre_ubigeo": "3292"
+    },
+    {
+      "id_ubigeo": "3320",
+      "label": "Calca",
+      "value": "Calca",
+      "codigo_ubigeo": "04",
+      "numero_hijos_ubigeo": "8",
+      "nivel_ubigeo": "2",
+      "id_padre_ubigeo": "3292"
+    },
+    {
+      "id_ubigeo": "3329",
+      "label": "Canas",
+      "value": "Canas",
+      "codigo_ubigeo": "05",
+      "numero_hijos_ubigeo": "8",
+      "nivel_ubigeo": "2",
+      "id_padre_ubigeo": "3292"
+    },
+    {
+      "id_ubigeo": "3338",
+      "label": "Canchis",
+      "value": "Canchis",
+      "codigo_ubigeo": "06",
+      "numero_hijos_ubigeo": "8",
+      "nivel_ubigeo": "2",
+      "id_padre_ubigeo": "3292"
+    },
+    {
+      "id_ubigeo": "3347",
+      "label": "Chumbivilcas",
+      "value": "Chumbivilcas",
+      "codigo_ubigeo": "07",
+      "numero_hijos_ubigeo": "8",
+      "nivel_ubigeo": "2",
+      "id_padre_ubigeo": "3292"
+    },
+    {
+      "id_ubigeo": "3293",
+      "label": "Cusco",
+      "value": "Cusco",
+      "codigo_ubigeo": "01",
+      "numero_hijos_ubigeo": "8",
+      "nivel_ubigeo": "2",
+      "id_padre_ubigeo": "3292"
+    },
+    {
+      "id_ubigeo": "3356",
+      "label": "Espinar",
+      "value": "Espinar",
+      "codigo_ubigeo": "08",
+      "numero_hijos_ubigeo": "8",
+      "nivel_ubigeo": "2",
+      "id_padre_ubigeo": "3292"
+    },
+    {
+      "id_ubigeo": "3365",
+      "label": "La Convencion",
+      "value": "La Convencion",
+      "codigo_ubigeo": "09",
+      "numero_hijos_ubigeo": "10",
+      "nivel_ubigeo": "2",
+      "id_padre_ubigeo": "3292"
+    },
+    {
+      "id_ubigeo": "3376",
+      "label": "Paruro",
+      "value": "Paruro",
+      "codigo_ubigeo": "10",
+      "numero_hijos_ubigeo": "9",
+      "nivel_ubigeo": "2",
+      "id_padre_ubigeo": "3292"
+    },
+    {
+      "id_ubigeo": "3386",
+      "label": "Paucartambo",
+      "value": "Paucartambo",
+      "codigo_ubigeo": "11",
+      "numero_hijos_ubigeo": "6",
+      "nivel_ubigeo": "2",
+      "id_padre_ubigeo": "3292"
+    },
+    {
+      "id_ubigeo": "3393",
+      "label": "Quispicanchi",
+      "value": "Quispicanchi",
+      "codigo_ubigeo": "12",
+      "numero_hijos_ubigeo": "12",
+      "nivel_ubigeo": "2",
+      "id_padre_ubigeo": "3292"
+    },
+    {
+      "id_ubigeo": "3406",
+      "label": "Urubamba",
+      "value": "Urubamba",
+      "codigo_ubigeo": "13",
+      "numero_hijos_ubigeo": "7",
+      "nivel_ubigeo": "2",
+      "id_padre_ubigeo": "3292"
+    }
+  ],
+  "3414": [
+    {
+      "id_ubigeo": "3435",
+      "label": "Acobamba",
+      "value": "Acobamba",
+      "codigo_ubigeo": "02",
+      "numero_hijos_ubigeo": "8",
+      "nivel_ubigeo": "2",
+      "id_padre_ubigeo": "3414"
+    },
+    {
+      "id_ubigeo": "3444",
+      "label": "Angaraes",
+      "value": "Angaraes",
+      "codigo_ubigeo": "03",
+      "numero_hijos_ubigeo": "12",
+      "nivel_ubigeo": "2",
+      "id_padre_ubigeo": "3414"
+    },
+    {
+      "id_ubigeo": "3457",
+      "label": "Castrovirreyna",
+      "value": "Castrovirreyna",
+      "codigo_ubigeo": "04",
+      "numero_hijos_ubigeo": "13",
+      "nivel_ubigeo": "2",
+      "id_padre_ubigeo": "3414"
+    },
+    {
+      "id_ubigeo": "3471",
+      "label": "Churcampa",
+      "value": "Churcampa",
+      "codigo_ubigeo": "05",
+      "numero_hijos_ubigeo": "10",
+      "nivel_ubigeo": "2",
+      "id_padre_ubigeo": "3414"
+    },
+    {
+      "id_ubigeo": "3415",
+      "label": "Huancavelica",
+      "value": "Huancavelica",
+      "codigo_ubigeo": "01",
+      "numero_hijos_ubigeo": "19",
+      "nivel_ubigeo": "2",
+      "id_padre_ubigeo": "3414"
+    },
+    {
+      "id_ubigeo": "3482",
+      "label": "Huaytara",
+      "value": "Huaytara",
+      "codigo_ubigeo": "06",
+      "numero_hijos_ubigeo": "16",
+      "nivel_ubigeo": "2",
+      "id_padre_ubigeo": "3414"
+    },
+    {
+      "id_ubigeo": "3499",
+      "label": "Tayacaja",
+      "value": "Tayacaja",
+      "codigo_ubigeo": "07",
+      "numero_hijos_ubigeo": "18",
+      "nivel_ubigeo": "2",
+      "id_padre_ubigeo": "3414"
+    }
+  ],
+  "3518": [
+    {
+      "id_ubigeo": "3531",
+      "label": "Ambo",
+      "value": "Ambo",
+      "codigo_ubigeo": "02",
+      "numero_hijos_ubigeo": "8",
+      "nivel_ubigeo": "2",
+      "id_padre_ubigeo": "3518"
+    },
+    {
+      "id_ubigeo": "3540",
+      "label": "Dos de Mayo",
+      "value": "Dos de Mayo",
+      "codigo_ubigeo": "03",
+      "numero_hijos_ubigeo": "9",
+      "nivel_ubigeo": "2",
+      "id_padre_ubigeo": "3518"
+    },
+    {
+      "id_ubigeo": "3550",
+      "label": "Huacaybamba",
+      "value": "Huacaybamba",
+      "codigo_ubigeo": "04",
+      "numero_hijos_ubigeo": "4",
+      "nivel_ubigeo": "2",
+      "id_padre_ubigeo": "3518"
+    },
+    {
+      "id_ubigeo": "3555",
+      "label": "Huamalies",
+      "value": "Huamalies",
+      "codigo_ubigeo": "05",
+      "numero_hijos_ubigeo": "11",
+      "nivel_ubigeo": "2",
+      "id_padre_ubigeo": "3518"
+    },
+    {
+      "id_ubigeo": "3519",
+      "label": "Huanuco",
+      "value": "Huanuco",
+      "codigo_ubigeo": "01",
+      "numero_hijos_ubigeo": "11",
+      "nivel_ubigeo": "2",
+      "id_padre_ubigeo": "3518"
+    },
+    {
+      "id_ubigeo": "3589",
+      "label": "Lauricocha",
+      "value": "Lauricocha",
+      "codigo_ubigeo": "10",
+      "numero_hijos_ubigeo": "7",
+      "nivel_ubigeo": "2",
+      "id_padre_ubigeo": "3518"
+    },
+    {
+      "id_ubigeo": "3567",
+      "label": "Leoncio Prado",
+      "value": "Leoncio Prado",
+      "codigo_ubigeo": "06",
+      "numero_hijos_ubigeo": "6",
+      "nivel_ubigeo": "2",
+      "id_padre_ubigeo": "3518"
+    },
+    {
+      "id_ubigeo": "3574",
+      "label": "Maraqon",
+      "value": "Maraqon",
+      "codigo_ubigeo": "07",
+      "numero_hijos_ubigeo": "3",
+      "nivel_ubigeo": "2",
+      "id_padre_ubigeo": "3518"
+    },
+    {
+      "id_ubigeo": "3578",
+      "label": "Pachitea",
+      "value": "Pachitea",
+      "codigo_ubigeo": "08",
+      "numero_hijos_ubigeo": "4",
+      "nivel_ubigeo": "2",
+      "id_padre_ubigeo": "3518"
+    },
+    {
+      "id_ubigeo": "3583",
+      "label": "Puerto Inca",
+      "value": "Puerto Inca",
+      "codigo_ubigeo": "09",
+      "numero_hijos_ubigeo": "5",
+      "nivel_ubigeo": "2",
+      "id_padre_ubigeo": "3518"
+    },
+    {
+      "id_ubigeo": "3597",
+      "label": "Yarowilca",
+      "value": "Yarowilca",
+      "codigo_ubigeo": "11",
+      "numero_hijos_ubigeo": "8",
+      "nivel_ubigeo": "2",
+      "id_padre_ubigeo": "3518"
+    }
+  ],
+  "3606": [
+    {
+      "id_ubigeo": "3622",
+      "label": "Chincha",
+      "value": "Chincha",
+      "codigo_ubigeo": "02",
+      "numero_hijos_ubigeo": "11",
+      "nivel_ubigeo": "2",
+      "id_padre_ubigeo": "3606"
+    },
+    {
+      "id_ubigeo": "3607",
+      "label": "Ica",
+      "value": "Ica",
+      "codigo_ubigeo": "01",
+      "numero_hijos_ubigeo": "14",
+      "nivel_ubigeo": "2",
+      "id_padre_ubigeo": "3606"
+    },
+    {
+      "id_ubigeo": "3634",
+      "label": "Nazca",
+      "value": "Nazca",
+      "codigo_ubigeo": "03",
+      "numero_hijos_ubigeo": "5",
+      "nivel_ubigeo": "2",
+      "id_padre_ubigeo": "3606"
+    },
+    {
+      "id_ubigeo": "3640",
+      "label": "Palpa",
+      "value": "Palpa",
+      "codigo_ubigeo": "04",
+      "numero_hijos_ubigeo": "5",
+      "nivel_ubigeo": "2",
+      "id_padre_ubigeo": "3606"
+    },
+    {
+      "id_ubigeo": "3646",
+      "label": "Pisco",
+      "value": "Pisco",
+      "codigo_ubigeo": "05",
+      "numero_hijos_ubigeo": "8",
+      "nivel_ubigeo": "2",
+      "id_padre_ubigeo": "3606"
+    }
+  ],
+  "3655": [
+    {
+      "id_ubigeo": "3701",
+      "label": "Chanchamayo",
+      "value": "Chanchamayo",
+      "codigo_ubigeo": "03",
+      "numero_hijos_ubigeo": "6",
+      "nivel_ubigeo": "2",
+      "id_padre_ubigeo": "3655"
+    },
+    {
+      "id_ubigeo": "3778",
+      "label": "Chupaca",
+      "value": "Chupaca",
+      "codigo_ubigeo": "09",
+      "numero_hijos_ubigeo": "9",
+      "nivel_ubigeo": "2",
+      "id_padre_ubigeo": "3655"
+    },
+    {
+      "id_ubigeo": "3685",
+      "label": "Concepcion",
+      "value": "Concepcion",
+      "codigo_ubigeo": "02",
+      "numero_hijos_ubigeo": "15",
+      "nivel_ubigeo": "2",
+      "id_padre_ubigeo": "3655"
+    },
+    {
+      "id_ubigeo": "3656",
+      "label": "Huancayo",
+      "value": "Huancayo",
+      "codigo_ubigeo": "01",
+      "numero_hijos_ubigeo": "28",
+      "nivel_ubigeo": "2",
+      "id_padre_ubigeo": "3655"
+    },
+    {
+      "id_ubigeo": "3708",
+      "label": "Jauja",
+      "value": "Jauja",
+      "codigo_ubigeo": "04",
+      "numero_hijos_ubigeo": "34",
+      "nivel_ubigeo": "2",
+      "id_padre_ubigeo": "3655"
+    },
+    {
+      "id_ubigeo": "3743",
+      "label": "Junin",
+      "value": "Junin",
+      "codigo_ubigeo": "05",
+      "numero_hijos_ubigeo": "4",
+      "nivel_ubigeo": "2",
+      "id_padre_ubigeo": "3655"
+    },
+    {
+      "id_ubigeo": "3748",
+      "label": "Satipo",
+      "value": "Satipo",
+      "codigo_ubigeo": "06",
+      "numero_hijos_ubigeo": "8",
+      "nivel_ubigeo": "2",
+      "id_padre_ubigeo": "3655"
+    },
+    {
+      "id_ubigeo": "3757",
+      "label": "Tarma",
+      "value": "Tarma",
+      "codigo_ubigeo": "07",
+      "numero_hijos_ubigeo": "9",
+      "nivel_ubigeo": "2",
+      "id_padre_ubigeo": "3655"
+    },
+    {
+      "id_ubigeo": "3767",
+      "label": "Yauli",
+      "value": "Yauli",
+      "codigo_ubigeo": "08",
+      "numero_hijos_ubigeo": "10",
+      "nivel_ubigeo": "2",
+      "id_padre_ubigeo": "3655"
+    }
+  ],
+  "3788": [
+    {
+      "id_ubigeo": "3801",
+      "label": "Ascope",
+      "value": "Ascope",
+      "codigo_ubigeo": "02",
+      "numero_hijos_ubigeo": "8",
+      "nivel_ubigeo": "2",
+      "id_padre_ubigeo": "3788"
+    },
+    {
+      "id_ubigeo": "3810",
+      "label": "Bolivar",
+      "value": "Bolivar",
+      "codigo_ubigeo": "03",
+      "numero_hijos_ubigeo": "6",
+      "nivel_ubigeo": "2",
+      "id_padre_ubigeo": "3788"
+    },
+    {
+      "id_ubigeo": "3817",
+      "label": "Chepen",
+      "value": "Chepen",
+      "codigo_ubigeo": "04",
+      "numero_hijos_ubigeo": "3",
+      "nivel_ubigeo": "2",
+      "id_padre_ubigeo": "3788"
+    },
+    {
+      "id_ubigeo": "3875",
+      "label": "Gran Chimu",
+      "value": "Gran Chimu",
+      "codigo_ubigeo": "11",
+      "numero_hijos_ubigeo": "4",
+      "nivel_ubigeo": "2",
+      "id_padre_ubigeo": "3788"
+    },
+    {
+      "id_ubigeo": "3821",
+      "label": "Julcan",
+      "value": "Julcan",
+      "codigo_ubigeo": "05",
+      "numero_hijos_ubigeo": "4",
+      "nivel_ubigeo": "2",
+      "id_padre_ubigeo": "3788"
+    },
+    {
+      "id_ubigeo": "3826",
+      "label": "Otuzco",
+      "value": "Otuzco",
+      "codigo_ubigeo": "06",
+      "numero_hijos_ubigeo": "10",
+      "nivel_ubigeo": "2",
+      "id_padre_ubigeo": "3788"
+    },
+    {
+      "id_ubigeo": "3837",
+      "label": "Pacasmayo",
+      "value": "Pacasmayo",
+      "codigo_ubigeo": "07",
+      "numero_hijos_ubigeo": "5",
+      "nivel_ubigeo": "2",
+      "id_padre_ubigeo": "3788"
+    },
+    {
+      "id_ubigeo": "3843",
+      "label": "Pataz",
+      "value": "Pataz",
+      "codigo_ubigeo": "08",
+      "numero_hijos_ubigeo": "13",
+      "nivel_ubigeo": "2",
+      "id_padre_ubigeo": "3788"
+    },
+    {
+      "id_ubigeo": "3857",
+      "label": "Sanchez Carrion",
+      "value": "Sanchez Carrion",
+      "codigo_ubigeo": "09",
+      "numero_hijos_ubigeo": "8",
+      "nivel_ubigeo": "2",
+      "id_padre_ubigeo": "3788"
+    },
+    {
+      "id_ubigeo": "3866",
+      "label": "Santiago de Chuco",
+      "value": "Santiago de Chuco",
+      "codigo_ubigeo": "10",
+      "numero_hijos_ubigeo": "8",
+      "nivel_ubigeo": "2",
+      "id_padre_ubigeo": "3788"
+    },
+    {
+      "id_ubigeo": "3789",
+      "label": "Trujillo",
+      "value": "Trujillo",
+      "codigo_ubigeo": "01",
+      "numero_hijos_ubigeo": "11",
+      "nivel_ubigeo": "2",
+      "id_padre_ubigeo": "3788"
+    },
+    {
+      "id_ubigeo": "3880",
+      "label": "Viru",
+      "value": "Viru",
+      "codigo_ubigeo": "12",
+      "numero_hijos_ubigeo": "3",
+      "nivel_ubigeo": "2",
+      "id_padre_ubigeo": "3788"
+    }
+  ],
+  "3884": [
+    {
+      "id_ubigeo": "3885",
+      "label": "Chiclayo",
+      "value": "Chiclayo",
+      "codigo_ubigeo": "01",
+      "numero_hijos_ubigeo": "20",
+      "nivel_ubigeo": "2",
+      "id_padre_ubigeo": "3884"
+    },
+    {
+      "id_ubigeo": "3906",
+      "label": "Ferreqafe",
+      "value": "Ferreqafe",
+      "codigo_ubigeo": "02",
+      "numero_hijos_ubigeo": "6",
+      "nivel_ubigeo": "2",
+      "id_padre_ubigeo": "3884"
+    },
+    {
+      "id_ubigeo": "3913",
+      "label": "Lambayeque",
+      "value": "Lambayeque",
+      "codigo_ubigeo": "03",
+      "numero_hijos_ubigeo": "12",
+      "nivel_ubigeo": "2",
+      "id_padre_ubigeo": "3884"
+    }
+  ],
+  "3926": [
+    {
+      "id_ubigeo": "3971",
+      "label": "Barranca",
+      "value": "Barranca",
+      "codigo_ubigeo": "02",
+      "numero_hijos_ubigeo": "5",
+      "nivel_ubigeo": "2",
+      "id_padre_ubigeo": "3926"
+    },
+    {
+      "id_ubigeo": "3977",
+      "label": "Cajatambo",
+      "value": "Cajatambo",
+      "codigo_ubigeo": "03",
+      "numero_hijos_ubigeo": "5",
+      "nivel_ubigeo": "2",
+      "id_padre_ubigeo": "3926"
+    },
+    {
+      "id_ubigeo": "3285",
+      "label": "Callao",
+      "value": "Callao",
+      "codigo_ubigeo": "01",
+      "numero_hijos_ubigeo": "6",
+      "nivel_ubigeo": "2",
+      "id_padre_ubigeo": "3926"
+    },
+    {
+      "id_ubigeo": "3991",
+      "label": "Ca\u00f1ete",
+      "value": "Ca\u00f1ete",
+      "codigo_ubigeo": "05",
+      "numero_hijos_ubigeo": "16",
+      "nivel_ubigeo": "2",
+      "id_padre_ubigeo": "3926"
+    },
+    {
+      "id_ubigeo": "3983",
+      "label": "Canta",
+      "value": "Canta",
+      "codigo_ubigeo": "04",
+      "numero_hijos_ubigeo": "7",
+      "nivel_ubigeo": "2",
+      "id_padre_ubigeo": "3926"
+    },
+    {
+      "id_ubigeo": "4008",
+      "label": "Huaral",
+      "value": "Huaral",
+      "codigo_ubigeo": "06",
+      "numero_hijos_ubigeo": "12",
+      "nivel_ubigeo": "2",
+      "id_padre_ubigeo": "3926"
+    },
+    {
+      "id_ubigeo": "4021",
+      "label": "Huarochiri",
+      "value": "Huarochiri",
+      "codigo_ubigeo": "07",
+      "numero_hijos_ubigeo": "32",
+      "nivel_ubigeo": "2",
+      "id_padre_ubigeo": "3926"
+    },
+    {
+      "id_ubigeo": "4054",
+      "label": "Huaura",
+      "value": "Huaura",
+      "codigo_ubigeo": "08",
+      "numero_hijos_ubigeo": "12",
+      "nivel_ubigeo": "2",
+      "id_padre_ubigeo": "3926"
+    },
+    {
+      "id_ubigeo": "3927",
+      "label": "Lima",
+      "value": "Lima",
+      "codigo_ubigeo": "01",
+      "numero_hijos_ubigeo": "43",
+      "nivel_ubigeo": "2",
+      "id_padre_ubigeo": "3926"
+    },
+    {
+      "id_ubigeo": "4067",
+      "label": "Oyon",
+      "value": "Oyon",
+      "codigo_ubigeo": "09",
+      "numero_hijos_ubigeo": "6",
+      "nivel_ubigeo": "2",
+      "id_padre_ubigeo": "3926"
+    },
+    {
+      "id_ubigeo": "4074",
+      "label": "Yauyos",
+      "value": "Yauyos",
+      "codigo_ubigeo": "10",
+      "numero_hijos_ubigeo": "33",
+      "nivel_ubigeo": "2",
+      "id_padre_ubigeo": "3926"
+    }
+  ],
+  "4108": [
+    {
+      "id_ubigeo": "4123",
+      "label": "Alto Amazonas",
+      "value": "Alto Amazonas",
+      "codigo_ubigeo": "02",
+      "numero_hijos_ubigeo": "11",
+      "nivel_ubigeo": "2",
+      "id_padre_ubigeo": "4108"
+    },
+    {
+      "id_ubigeo": "4135",
+      "label": "Loreto",
+      "value": "Loreto",
+      "codigo_ubigeo": "03",
+      "numero_hijos_ubigeo": "5",
+      "nivel_ubigeo": "2",
+      "id_padre_ubigeo": "4108"
+    },
+    {
+      "id_ubigeo": "4141",
+      "label": "Mariscal Ramon Castilla",
+      "value": "Mariscal Ramon Castilla",
+      "codigo_ubigeo": "04",
+      "numero_hijos_ubigeo": "4",
+      "nivel_ubigeo": "2",
+      "id_padre_ubigeo": "4108"
+    },
+    {
+      "id_ubigeo": "4109",
+      "label": "Maynas",
+      "value": "Maynas",
+      "codigo_ubigeo": "01",
+      "numero_hijos_ubigeo": "13",
+      "nivel_ubigeo": "2",
+      "id_padre_ubigeo": "4108"
+    },
+    {
+      "id_ubigeo": "4146",
+      "label": "Requena",
+      "value": "Requena",
+      "codigo_ubigeo": "05",
+      "numero_hijos_ubigeo": "11",
+      "nivel_ubigeo": "2",
+      "id_padre_ubigeo": "4108"
+    },
+    {
+      "id_ubigeo": "4158",
+      "label": "Ucayali",
+      "value": "Ucayali",
+      "codigo_ubigeo": "06",
+      "numero_hijos_ubigeo": "6",
+      "nivel_ubigeo": "2",
+      "id_padre_ubigeo": "4108"
+    }
+  ],
+  "4165": [
+    {
+      "id_ubigeo": "4171",
+      "label": "Manu",
+      "value": "Manu",
+      "codigo_ubigeo": "02",
+      "numero_hijos_ubigeo": "4",
+      "nivel_ubigeo": "2",
+      "id_padre_ubigeo": "4165"
+    },
+    {
+      "id_ubigeo": "4176",
+      "label": "Tahuamanu",
+      "value": "Tahuamanu",
+      "codigo_ubigeo": "03",
+      "numero_hijos_ubigeo": "3",
+      "nivel_ubigeo": "2",
+      "id_padre_ubigeo": "4165"
+    },
+    {
+      "id_ubigeo": "4166",
+      "label": "Tambopata",
+      "value": "Tambopata",
+      "codigo_ubigeo": "01",
+      "numero_hijos_ubigeo": "4",
+      "nivel_ubigeo": "2",
+      "id_padre_ubigeo": "4165"
+    }
+  ],
+  "4180": [
+    {
+      "id_ubigeo": "4188",
+      "label": "General Sanchez Cerro",
+      "value": "General Sanchez Cerro",
+      "codigo_ubigeo": "02",
+      "numero_hijos_ubigeo": "11",
+      "nivel_ubigeo": "2",
+      "id_padre_ubigeo": "4180"
+    },
+    {
+      "id_ubigeo": "4200",
+      "label": "Ilo",
+      "value": "Ilo",
+      "codigo_ubigeo": "03",
+      "numero_hijos_ubigeo": "3",
+      "nivel_ubigeo": "2",
+      "id_padre_ubigeo": "4180"
+    },
+    {
+      "id_ubigeo": "4181",
+      "label": "Mariscal Nieto",
+      "value": "Mariscal Nieto",
+      "codigo_ubigeo": "01",
+      "numero_hijos_ubigeo": "6",
+      "nivel_ubigeo": "2",
+      "id_padre_ubigeo": "4180"
+    }
+  ],
+  "4204": [
+    {
+      "id_ubigeo": "4219",
+      "label": "Daniel Alcides Carrion",
+      "value": "Daniel Alcides Carrion",
+      "codigo_ubigeo": "02",
+      "numero_hijos_ubigeo": "8",
+      "nivel_ubigeo": "2",
+      "id_padre_ubigeo": "4204"
+    },
+    {
+      "id_ubigeo": "4228",
+      "label": "Oxapampa",
+      "value": "Oxapampa",
+      "codigo_ubigeo": "03",
+      "numero_hijos_ubigeo": "7",
+      "nivel_ubigeo": "2",
+      "id_padre_ubigeo": "4204"
+    },
+    {
+      "id_ubigeo": "4205",
+      "label": "Pasco",
+      "value": "Pasco",
+      "codigo_ubigeo": "01",
+      "numero_hijos_ubigeo": "13",
+      "nivel_ubigeo": "2",
+      "id_padre_ubigeo": "4204"
+    }
+  ],
+  "4236": [
+    {
+      "id_ubigeo": "4247",
+      "label": "Ayabaca",
+      "value": "Ayabaca",
+      "codigo_ubigeo": "02",
+      "numero_hijos_ubigeo": "10",
+      "nivel_ubigeo": "2",
+      "id_padre_ubigeo": "4236"
+    },
+    {
+      "id_ubigeo": "4258",
+      "label": "Huancabamba",
+      "value": "Huancabamba",
+      "codigo_ubigeo": "03",
+      "numero_hijos_ubigeo": "8",
+      "nivel_ubigeo": "2",
+      "id_padre_ubigeo": "4236"
+    },
+    {
+      "id_ubigeo": "4267",
+      "label": "Morropon",
+      "value": "Morropon",
+      "codigo_ubigeo": "04",
+      "numero_hijos_ubigeo": "10",
+      "nivel_ubigeo": "2",
+      "id_padre_ubigeo": "4236"
+    },
+    {
+      "id_ubigeo": "4278",
+      "label": "Paita",
+      "value": "Paita",
+      "codigo_ubigeo": "05",
+      "numero_hijos_ubigeo": "7",
+      "nivel_ubigeo": "2",
+      "id_padre_ubigeo": "4236"
+    },
+    {
+      "id_ubigeo": "4237",
+      "label": "Piura",
+      "value": "Piura",
+      "codigo_ubigeo": "01",
+      "numero_hijos_ubigeo": "9",
+      "nivel_ubigeo": "2",
+      "id_padre_ubigeo": "4236"
+    },
+    {
+      "id_ubigeo": "4302",
+      "label": "Sechura",
+      "value": "Sechura",
+      "codigo_ubigeo": "08",
+      "numero_hijos_ubigeo": "6",
+      "nivel_ubigeo": "2",
+      "id_padre_ubigeo": "4236"
+    },
+    {
+      "id_ubigeo": "4286",
+      "label": "Sullana",
+      "value": "Sullana",
+      "codigo_ubigeo": "06",
+      "numero_hijos_ubigeo": "8",
+      "nivel_ubigeo": "2",
+      "id_padre_ubigeo": "4236"
+    },
+    {
+      "id_ubigeo": "4295",
+      "label": "Talara",
+      "value": "Talara",
+      "codigo_ubigeo": "07",
+      "numero_hijos_ubigeo": "6",
+      "nivel_ubigeo": "2",
+      "id_padre_ubigeo": "4236"
+    }
+  ],
+  "4309": [
+    {
+      "id_ubigeo": "4326",
+      "label": "Azangaro",
+      "value": "Azangaro",
+      "codigo_ubigeo": "02",
+      "numero_hijos_ubigeo": "15",
+      "nivel_ubigeo": "2",
+      "id_padre_ubigeo": "4309"
+    },
+    {
+      "id_ubigeo": "4342",
+      "label": "Carabaya",
+      "value": "Carabaya",
+      "codigo_ubigeo": "03",
+      "numero_hijos_ubigeo": "10",
+      "nivel_ubigeo": "2",
+      "id_padre_ubigeo": "4309"
+    },
+    {
+      "id_ubigeo": "4353",
+      "label": "Chucuito",
+      "value": "Chucuito",
+      "codigo_ubigeo": "04",
+      "numero_hijos_ubigeo": "7",
+      "nivel_ubigeo": "2",
+      "id_padre_ubigeo": "4309"
+    },
+    {
+      "id_ubigeo": "4361",
+      "label": "El Collao",
+      "value": "El Collao",
+      "codigo_ubigeo": "05",
+      "numero_hijos_ubigeo": "5",
+      "nivel_ubigeo": "2",
+      "id_padre_ubigeo": "4309"
+    },
+    {
+      "id_ubigeo": "4367",
+      "label": "Huancane",
+      "value": "Huancane",
+      "codigo_ubigeo": "06",
+      "numero_hijos_ubigeo": "8",
+      "nivel_ubigeo": "2",
+      "id_padre_ubigeo": "4309"
+    },
+    {
+      "id_ubigeo": "4376",
+      "label": "Lampa",
+      "value": "Lampa",
+      "codigo_ubigeo": "07",
+      "numero_hijos_ubigeo": "10",
+      "nivel_ubigeo": "2",
+      "id_padre_ubigeo": "4309"
+    },
+    {
+      "id_ubigeo": "4387",
+      "label": "Melgar",
+      "value": "Melgar",
+      "codigo_ubigeo": "08",
+      "numero_hijos_ubigeo": "9",
+      "nivel_ubigeo": "2",
+      "id_padre_ubigeo": "4309"
+    },
+    {
+      "id_ubigeo": "4397",
+      "label": "Moho",
+      "value": "Moho",
+      "codigo_ubigeo": "09",
+      "numero_hijos_ubigeo": "4",
+      "nivel_ubigeo": "2",
+      "id_padre_ubigeo": "4309"
+    },
+    {
+      "id_ubigeo": "4310",
+      "label": "Puno",
+      "value": "Puno",
+      "codigo_ubigeo": "01",
+      "numero_hijos_ubigeo": "15",
+      "nivel_ubigeo": "2",
+      "id_padre_ubigeo": "4309"
+    },
+    {
+      "id_ubigeo": "4402",
+      "label": "San Antonio de Putina",
+      "value": "San Antonio de Putina",
+      "codigo_ubigeo": "10",
+      "numero_hijos_ubigeo": "5",
+      "nivel_ubigeo": "2",
+      "id_padre_ubigeo": "4309"
+    },
+    {
+      "id_ubigeo": "4408",
+      "label": "San Roman",
+      "value": "San Roman",
+      "codigo_ubigeo": "11",
+      "numero_hijos_ubigeo": "4",
+      "nivel_ubigeo": "2",
+      "id_padre_ubigeo": "4309"
+    },
+    {
+      "id_ubigeo": "4413",
+      "label": "Sandia",
+      "value": "Sandia",
+      "codigo_ubigeo": "12",
+      "numero_hijos_ubigeo": "9",
+      "nivel_ubigeo": "2",
+      "id_padre_ubigeo": "4309"
+    },
+    {
+      "id_ubigeo": "4423",
+      "label": "Yunguyo",
+      "value": "Yunguyo",
+      "codigo_ubigeo": "13",
+      "numero_hijos_ubigeo": "7",
+      "nivel_ubigeo": "2",
+      "id_padre_ubigeo": "4309"
+    }
+  ],
+  "4431": [
+    {
+      "id_ubigeo": "4439",
+      "label": "Bellavista",
+      "value": "Bellavista",
+      "codigo_ubigeo": "02",
+      "numero_hijos_ubigeo": "6",
+      "nivel_ubigeo": "2",
+      "id_padre_ubigeo": "4431"
+    },
+    {
+      "id_ubigeo": "4446",
+      "label": "El Dorado",
+      "value": "El Dorado",
+      "codigo_ubigeo": "03",
+      "numero_hijos_ubigeo": "5",
+      "nivel_ubigeo": "2",
+      "id_padre_ubigeo": "4431"
+    },
+    {
+      "id_ubigeo": "4452",
+      "label": "Huallaga",
+      "value": "Huallaga",
+      "codigo_ubigeo": "04",
+      "numero_hijos_ubigeo": "6",
+      "nivel_ubigeo": "2",
+      "id_padre_ubigeo": "4431"
+    },
+    {
+      "id_ubigeo": "4459",
+      "label": "Lamas",
+      "value": "Lamas",
+      "codigo_ubigeo": "05",
+      "numero_hijos_ubigeo": "11",
+      "nivel_ubigeo": "2",
+      "id_padre_ubigeo": "4431"
+    },
+    {
+      "id_ubigeo": "4471",
+      "label": "Mariscal Caceres",
+      "value": "Mariscal Caceres",
+      "codigo_ubigeo": "06",
+      "numero_hijos_ubigeo": "5",
+      "nivel_ubigeo": "2",
+      "id_padre_ubigeo": "4431"
+    },
+    {
+      "id_ubigeo": "4432",
+      "label": "Moyobamba",
+      "value": "Moyobamba",
+      "codigo_ubigeo": "01",
+      "numero_hijos_ubigeo": "6",
+      "nivel_ubigeo": "2",
+      "id_padre_ubigeo": "4431"
+    },
+    {
+      "id_ubigeo": "4477",
+      "label": "Picota",
+      "value": "Picota",
+      "codigo_ubigeo": "07",
+      "numero_hijos_ubigeo": "10",
+      "nivel_ubigeo": "2",
+      "id_padre_ubigeo": "4431"
+    },
+    {
+      "id_ubigeo": "4488",
+      "label": "Rioja",
+      "value": "Rioja",
+      "codigo_ubigeo": "08",
+      "numero_hijos_ubigeo": "9",
+      "nivel_ubigeo": "2",
+      "id_padre_ubigeo": "4431"
+    },
+    {
+      "id_ubigeo": "4498",
+      "label": "San Martin",
+      "value": "San Martin",
+      "codigo_ubigeo": "09",
+      "numero_hijos_ubigeo": "14",
+      "nivel_ubigeo": "2",
+      "id_padre_ubigeo": "4431"
+    },
+    {
+      "id_ubigeo": "4513",
+      "label": "Tocache",
+      "value": "Tocache",
+      "codigo_ubigeo": "10",
+      "numero_hijos_ubigeo": "5",
+      "nivel_ubigeo": "2",
+      "id_padre_ubigeo": "4431"
+    }
+  ],
+  "4519": [
+    {
+      "id_ubigeo": "4531",
+      "label": "Candarave",
+      "value": "Candarave",
+      "codigo_ubigeo": "02",
+      "numero_hijos_ubigeo": "6",
+      "nivel_ubigeo": "2",
+      "id_padre_ubigeo": "4519"
+    },
+    {
+      "id_ubigeo": "4538",
+      "label": "Jorge Basadre",
+      "value": "Jorge Basadre",
+      "codigo_ubigeo": "03",
+      "numero_hijos_ubigeo": "3",
+      "nivel_ubigeo": "2",
+      "id_padre_ubigeo": "4519"
+    },
+    {
+      "id_ubigeo": "4520",
+      "label": "Tacna",
+      "value": "Tacna",
+      "codigo_ubigeo": "01",
+      "numero_hijos_ubigeo": "10",
+      "nivel_ubigeo": "2",
+      "id_padre_ubigeo": "4519"
+    },
+    {
+      "id_ubigeo": "4542",
+      "label": "Tarata",
+      "value": "Tarata",
+      "codigo_ubigeo": "04",
+      "numero_hijos_ubigeo": "8",
+      "nivel_ubigeo": "2",
+      "id_padre_ubigeo": "4519"
+    }
+  ],
+  "4551": [
+    {
+      "id_ubigeo": "4559",
+      "label": "Contralmirante Villar",
+      "value": "Contralmirante Villar",
+      "codigo_ubigeo": "02",
+      "numero_hijos_ubigeo": "2",
+      "nivel_ubigeo": "2",
+      "id_padre_ubigeo": "4551"
+    },
+    {
+      "id_ubigeo": "4552",
+      "label": "Tumbes",
+      "value": "Tumbes",
+      "codigo_ubigeo": "01",
+      "numero_hijos_ubigeo": "6",
+      "nivel_ubigeo": "2",
+      "id_padre_ubigeo": "4551"
+    },
+    {
+      "id_ubigeo": "4562",
+      "label": "Zarumilla",
+      "value": "Zarumilla",
+      "codigo_ubigeo": "03",
+      "numero_hijos_ubigeo": "4",
+      "nivel_ubigeo": "2",
+      "id_padre_ubigeo": "4551"
+    }
+  ],
+  "4567": [
+    {
+      "id_ubigeo": "4575",
+      "label": "Atalaya",
+      "value": "Atalaya",
+      "codigo_ubigeo": "02",
+      "numero_hijos_ubigeo": "4",
+      "nivel_ubigeo": "2",
+      "id_padre_ubigeo": "4567"
+    },
+    {
+      "id_ubigeo": "4568",
+      "label": "Coronel Portillo",
+      "value": "Coronel Portillo",
+      "codigo_ubigeo": "01",
+      "numero_hijos_ubigeo": "6",
+      "nivel_ubigeo": "2",
+      "id_padre_ubigeo": "4567"
+    },
+    {
+      "id_ubigeo": "4580",
+      "label": "Padre Abad",
+      "value": "Padre Abad",
+      "codigo_ubigeo": "03",
+      "numero_hijos_ubigeo": "3",
+      "nivel_ubigeo": "2",
+      "id_padre_ubigeo": "4567"
+    },
+    {
+      "id_ubigeo": "4584",
+      "label": "Purus",
+      "value": "Purus",
+      "codigo_ubigeo": "04",
+      "numero_hijos_ubigeo": "1",
+      "nivel_ubigeo": "2",
+      "id_padre_ubigeo": "4567"
+    }
+  ]
+}

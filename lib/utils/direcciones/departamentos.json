@@ -1,0 +1,218 @@
+[
+  {
+    "id_ubigeo": "2534",
+    "label": "Amazonas",
+    "value": "Amazonas",
+    "codigo_ubigeo": "01",
+    "numero_hijos_ubigeo": "7",
+    "nivel_ubigeo": "1",
+    "id_padre_ubigeo": "2533"
+  },
+  {
+    "id_ubigeo": "2625",
+    "label": "Ancash",
+    "value": "Ancash",
+    "codigo_ubigeo": "02",
+    "numero_hijos_ubigeo": "20",
+    "nivel_ubigeo": "1",
+    "id_padre_ubigeo": "2533"
+  },
+  {
+    "id_ubigeo": "2812",
+    "label": "Apurimac",
+    "value": "Apurimac",
+    "codigo_ubigeo": "03",
+    "numero_hijos_ubigeo": "7",
+    "nivel_ubigeo": "1",
+    "id_padre_ubigeo": "2533"
+  },
+  {
+    "id_ubigeo": "2900",
+    "label": "Arequipa",
+    "value": "Arequipa",
+    "codigo_ubigeo": "04",
+    "numero_hijos_ubigeo": "8",
+    "nivel_ubigeo": "1",
+    "id_padre_ubigeo": "2533"
+  },
+  {
+    "id_ubigeo": "3020",
+    "label": "Ayacucho",
+    "value": "Ayacucho",
+    "codigo_ubigeo": "05",
+    "numero_hijos_ubigeo": "11",
+    "nivel_ubigeo": "1",
+    "id_padre_ubigeo": "2533"
+  },
+  {
+    "id_ubigeo": "3143",
+    "label": "Cajamarca",
+    "value": "Cajamarca",
+    "codigo_ubigeo": "06",
+    "numero_hijos_ubigeo": "13",
+    "nivel_ubigeo": "1",
+    "id_padre_ubigeo": "2533"
+  },
+  {
+    "id_ubigeo": "3292",
+    "label": "Cusco",
+    "value": "Cusco",
+    "codigo_ubigeo": "08",
+    "numero_hijos_ubigeo": "13",
+    "nivel_ubigeo": "1",
+    "id_padre_ubigeo": "2533"
+  },
+  {
+    "id_ubigeo": "3414",
+    "label": "Huancavelica",
+    "value": "Huancavelica",
+    "codigo_ubigeo": "09",
+    "numero_hijos_ubigeo": "7",
+    "nivel_ubigeo": "1",
+    "id_padre_ubigeo": "2533"
+  },
+  {
+    "id_ubigeo": "3518",
+    "label": "Huanuco",
+    "value": "Huanuco",
+    "codigo_ubigeo": "10",
+    "numero_hijos_ubigeo": "11",
+    "nivel_ubigeo": "1",
+    "id_padre_ubigeo": "2533"
+  },
+  {
+    "id_ubigeo": "3606",
+    "label": "Ica",
+    "value": "Ica",
+    "codigo_ubigeo": "11",
+    "numero_hijos_ubigeo": "5",
+    "nivel_ubigeo": "1",
+    "id_padre_ubigeo": "2533"
+  },
+  {
+    "id_ubigeo": "3655",
+    "label": "Junin",
+    "value": "Junin",
+    "codigo_ubigeo": "12",
+    "numero_hijos_ubigeo": "9",
+    "nivel_ubigeo": "1",
+    "id_padre_ubigeo": "2533"
+  },
+  {
+    "id_ubigeo": "3788",
+    "label": "La Libertad",
+    "value": "La Libertad",
+    "codigo_ubigeo": "13",
+    "numero_hijos_ubigeo": "12",
+    "nivel_ubigeo": "1",
+    "id_padre_ubigeo": "2533"
+  },
+  {
+    "id_ubigeo": "3884",
+    "label": "Lambayeque",
+    "value": "Lambayeque",
+    "codigo_ubigeo": "14",
+    "numero_hijos_ubigeo": "3",
+    "nivel_ubigeo": "1",
+    "id_padre_ubigeo": "2533"
+  },
+  {
+    "id_ubigeo": "3926",
+    "label": "Lima",
+    "value": "Lima",
+    "codigo_ubigeo": "15",
+    "numero_hijos_ubigeo": "10",
+    "nivel_ubigeo": "1",
+    "id_padre_ubigeo": "2533"
+  },
+  {
+    "id_ubigeo": "4108",
+    "label": "Loreto",
+    "value": "Loreto",
+    "codigo_ubigeo": "16",
+    "numero_hijos_ubigeo": "6",
+    "nivel_ubigeo": "1",
+    "id_padre_ubigeo": "2533"
+  },
+  {
+    "id_ubigeo": "4165",
+    "label": "Madre de Dios",
+    "value": "Madre de Dios",
+    "codigo_ubigeo": "17",
+    "numero_hijos_ubigeo": "3",
+    "nivel_ubigeo": "1",
+    "id_padre_ubigeo": "2533"
+  },
+  {
+    "id_ubigeo": "4180",
+    "label": "Moquegua",
+    "value": "Moquegua",
+    "codigo_ubigeo": "18",
+    "numero_hijos_ubigeo": "3",
+    "nivel_ubigeo": "1",
+    "id_padre_ubigeo": "2533"
+  },
+  {
+    "id_ubigeo": "4204",
+    "label": "Pasco",
+    "value": "Pasco",
+    "codigo_ubigeo": "19",
+    "numero_hijos_ubigeo": "3",
+    "nivel_ubigeo": "1",
+    "id_padre_ubigeo": "2533"
+  },
+  {
+    "id_ubigeo": "4236",
+    "label": "Piura",
+    "value": "Piura",
+    "codigo_ubigeo": "20",
+    "numero_hijos_ubigeo": "8",
+    "nivel_ubigeo": "1",
+    "id_padre_ubigeo": "2533"
+  },
+  {
+    "id_ubigeo": "4309",
+    "label": "Puno",
+    "value": "Puno",
+    "codigo_ubigeo": "21",
+    "numero_hijos_ubigeo": "13",
+    "nivel_ubigeo": "1",
+    "id_padre_ubigeo": "2533"
+  },
+  {
+    "id_ubigeo": "4431",
+    "label": "San Martin",
+    "value": "San Martin",
+    "codigo_ubigeo": "22",
+    "numero_hijos_ubigeo": "10",
+    "nivel_ubigeo": "1",
+    "id_padre_ubigeo": "2533"
+  },
+  {
+    "id_ubigeo": "4519",
+    "label": "Tacna",
+    "value": "Tacna",
+    "codigo_ubigeo": "23",
+    "numero_hijos_ubigeo": "4",
+    "nivel_ubigeo": "1",
+    "id_padre_ubigeo": "2533"
+  },
+  {
+    "id_ubigeo": "4551",
+    "label": "Tumbes",
+    "value": "Tumbes",
+    "codigo_ubigeo": "24",
+    "numero_hijos_ubigeo": "3",
+    "nivel_ubigeo": "1",
+    "id_padre_ubigeo": "2533"
+  },
+  {
+    "id_ubigeo": "4567",
+    "label": "Ucayali",
+    "value": "Ucayali",
+    "codigo_ubigeo": "25",
+    "numero_hijos_ubigeo": "4",
+    "nivel_ubigeo": "1",
+    "id_padre_ubigeo": "2533"
+  }
+]
